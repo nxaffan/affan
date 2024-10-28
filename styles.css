@@ -90,7 +90,7 @@ footer {
     margin-top: 2rem;
     justify-content: center;
     align-items: last baseline;
-    text-align: center;
+    text-align: left;
 }
 footer p {
     background: #000000;
