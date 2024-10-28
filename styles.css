@@ -110,6 +110,8 @@ footer p {
      #home p img 2{
         height:40px;
         width:20px;
+      border-radius: 50%; /* Rounds the image */
+    overflow: hidden; /* Ensures the image doesn't overflow */
     }
 
     nav ul li {
