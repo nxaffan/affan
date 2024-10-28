@@ -107,6 +107,11 @@ footer p {
         width:20px;
     }
 
+     #home p img 2{
+        height:40px;
+        width:20px;
+    }
+
     nav ul li {
         display: block;
         margin: 0.5rem 0;
